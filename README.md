@@ -1,2 +1,1 @@
-# Head First Python (3rd ed)
-Code repo from the book
+All the codes from my learning materials
